@@ -1,2 +1,2 @@
 # HVS-HighlyVersatileShell
-A simple one-file PHP web shell.
+A simple & light one-file PHP web shell.
