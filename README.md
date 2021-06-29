@@ -1,4 +1,4 @@
-# HVS-HighlyVersatileShell
+# HVS - Highly Versatile Shell
 A simple & light one-file PHP web shell.
 
 Just does its job. The only fancy feature it's that it has a self-destruction button for when... well, for when you need it.
